@@ -1,3 +1,3 @@
 # spin-systems
 
-_αɒ metaphorism_
+_αɒ_ metaphorism
