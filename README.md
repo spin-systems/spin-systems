@@ -1,3 +1,3 @@
 #### _αɒ_
 
-metaphorism
+metaphorism ([metamorphism](http://permut.co/Lever,-aphorism,-analogy/))
