@@ -204,8 +204,8 @@ header nav ul li a {
 header nav ul li a:hover{
   -webkit-transform:rotate(360deg);
   transform:rotate(360deg);
-  -webkit-transition:-webkit-transform 0.2s;
-  transition:transform 0.2s;
+  -webkit-transition:-webkit-transform 0.4s;
+  transition:transform 0.4s;
 }
 
 header nav ul li a:hover {
