@@ -194,9 +194,9 @@ header nav ul li a {
   display:block;
   text-align:center;
   padding-top:1em;
-  padding-bottom: 1em;
-  margin-top: -8px;
-  height:34px;
+  padding-bottom:1em;
+  margin-top:-8px;
+  height:1em;
 }
 
 header nav ul li a:hover {
