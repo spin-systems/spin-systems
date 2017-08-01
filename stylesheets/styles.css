@@ -197,8 +197,8 @@ header nav ul li a {
   padding-bottom:1em;
   margin-top:-8px;
   height:1em;
-  -webkit-transition:-webkit-transform 1s;
-  transition:transform 1s;
+  -webkit-transition:-webkit-transform 1s ease-in-out;
+  transition:transform 1s ease-in-out;
 }
 
 header nav ul li a:hover{
